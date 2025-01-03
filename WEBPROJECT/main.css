@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.section {
+    text-align: center;
+}
+.section h2{
+font-size: 80px;
+text-align: center;
+}
+.section button {
+    background-color: #0E86D4;
+    color: #fff;
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
